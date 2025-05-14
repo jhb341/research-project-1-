@@ -4,7 +4,7 @@
     
 """
 
-from gradcam_module import GradCam, apply_colormap_on_image
+from code.resnet.gradcam_module import GradCam, apply_colormap_on_image
 
 # 1) VGG16 불러오기
 model = torchvision.models.vgg16(pretrained=True).eval().to(device)

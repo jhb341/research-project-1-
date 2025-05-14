@@ -1,0 +1,18 @@
+fold_data : ['687163.lh', '101410.lh', '102311.lh', '103515.lh', '910241.lh', '566454.lh', '109123.lh', '112920.lh', '144125.lh', '102816.lh', '106016.lh', '100408.lh', '100206.lh', '104416.lh', '107422.lh']
+Epoch     Loss           Accuracy       Dice None      Dice POS       Dice prculs    Dice prcus1    Dice prcus2    Dice prcus3    Dice MCGS      Dice sbps      Dice 2         Average Dice  
+13        0.126532       0.983150       0.994547       0.793494       0.729321       0.425408       0.402962       0.395886       0.836852       0.798343       0.705836       0.636013      
+fold_data : ['687163.lh', '101410.lh', '102311.lh', '103515.lh', '910241.lh', '566454.lh', '109123.lh', '112920.lh', '144125.lh', '102816.lh', '106016.lh', '100408.lh', '100206.lh', '104416.lh', '107422.lh']
+Epoch     Loss           Accuracy       Dice None      Dice POS       Dice prculs    Dice prcus1    Dice prcus2    Dice prcus3    Dice MCGS      Dice sbps      Dice 2         Average Dice  
+fold_data : ['687163.lh', '101410.lh', '102311.lh', '103515.lh', '910241.lh', '566454.lh', '109123.lh', '112920.lh', '144125.lh', '102816.lh', '106016.lh', '100408.lh', '100206.lh', '104416.lh', '107422.lh']
+Epoch     Loss           Accuracy       Dice None      Dice POS       Dice prculs    Dice prcus1    Dice prcus2    Dice prcus3    Dice MCGS      Dice sbps      Dice 2         Average Dice  
+fold_data : ['687163.lh', '101410.lh', '102311.lh', '103515.lh', '910241.lh', '566454.lh', '109123.lh', '112920.lh', '144125.lh', '102816.lh', '106016.lh', '100408.lh', '100206.lh', '104416.lh', '107422.lh']
+Epoch     Loss           Accuracy       Dice None      Dice POS       Dice prculs    Dice prcus1    Dice prcus2    Dice prcus3    Dice MCGS      Dice sbps      Dice 2         Average Dice  
+fold_data : ['687163.lh', '101410.lh', '102311.lh', '103515.lh', '910241.lh', '566454.lh', '109123.lh', '112920.lh', '144125.lh', '102816.lh', '106016.lh', '100408.lh', '100206.lh', '104416.lh', '107422.lh']
+Epoch     Loss           Accuracy       Dice None      Dice POS       Dice prculs    Dice prcus1    Dice prcus2    Dice prcus3    Dice MCGS      Dice sbps      Dice 2         Average Dice  
+fold_data : ['687163.lh', '101410.lh', '102311.lh', '103515.lh', '910241.lh', '566454.lh', '109123.lh', '112920.lh', '144125.lh', '102816.lh', '106016.lh', '100408.lh', '100206.lh', '104416.lh', '107422.lh']
+Epoch     Loss           Accuracy       Dice None      Dice POS       Dice prculs    Dice prcus1    Dice prcus2    Dice prcus3    Dice MCGS      Dice sbps      Dice 2         Average Dice  
+fold_data : ['687163.lh', '101410.lh', '102311.lh', '103515.lh', '910241.lh', '566454.lh', '109123.lh', '112920.lh', '144125.lh', '102816.lh', '106016.lh', '100408.lh', '100206.lh', '104416.lh', '107422.lh']
+Epoch     Loss           Accuracy       Dice None      Dice POS       Dice prculs    Dice prcus1    Dice prcus2    Dice prcus3    Dice MCGS      Dice sbps      Dice 2         Average Dice  
+fold_data : ['687163.lh', '101410.lh', '102311.lh', '103515.lh', '910241.lh', '566454.lh', '109123.lh', '112920.lh', '144125.lh', '102816.lh', '106016.lh', '100408.lh', '100206.lh', '104416.lh', '107422.lh']
+Epoch     Loss           Accuracy       Dice None      Dice POS       Dice prculs    Dice prcus1    Dice prcus2    Dice prcus3    Dice MCGS      Dice sbps      Dice 2         Average Dice  
+10        0.152564       0.982812       0.994401       0.789527       0.737187       0.380660       0.399816       0.425723       0.834859       0.783065       0.618366       0.621150      
